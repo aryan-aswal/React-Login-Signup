@@ -1,0 +1,7 @@
+input {
+    color: white;
+    background-color: black;
+}
+::-ms-reveal {
+    filter: invert(100%);
+}
